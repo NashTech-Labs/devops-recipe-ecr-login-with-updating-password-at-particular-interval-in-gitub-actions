@@ -70,4 +70,3 @@ jobs:
     steps:
       - name: Run Python script from container
         run: python3 /src/hello_world.py
-
